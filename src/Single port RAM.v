@@ -2,6 +2,7 @@
 // File: single_port_ram.v
 // Description: Synchronous single-port RAM with parameterized size
 // Author: NISHANT KUMAR JHA
+// DATE: 09-07-2025
 // -------------------------------------------------------------------
 
 
