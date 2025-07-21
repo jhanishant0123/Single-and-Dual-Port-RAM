@@ -1,4 +1,5 @@
 
+
 // -------------------------------------------------------------------
 // File: dual_port_ram.v
 // Description: Synchronous dual-port RAM with separate address/data/WE
