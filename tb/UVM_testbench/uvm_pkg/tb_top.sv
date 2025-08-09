@@ -1,4 +1,3 @@
-
 `timescale 1ns/1ps
 `include "ram_if.sv"
 `include "ram_pkg.sv"
